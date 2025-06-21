@@ -3705,7 +3705,7 @@
                                         <div id="module_product_brand_1" class="pdp-block module">
                                             <div class="pdp-product-brand">
                                                 <span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span>
-                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://setdprd.rembangkab.go.id/">JACKPOT86</a>
+                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://setdprd.rembangkab.go.id/">BALAKSIX</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
                                                     <a href="https://t.ly/nyalabos">
