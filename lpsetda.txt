@@ -15,7 +15,7 @@
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://api2-blx.imgnxb.com/images/5ic2zyWspX8/favicon_96c00afb-2339-4071-aabc-5685e6905423_1750406270670.png" />
         <link rel="canonical" href="https://setdprd.rembangkab.go.id/" />
-        <link rel="amphtml" href="https://anakbawang2.pages.dev/img/setdprd.html" />
+        <link rel="amphtml" href="https://anakbawang2.pages.dev/setdprd.html" />
         <meta name="google-site-verification" content="SkV6HLhmyctiwMvJhhVq_B34oRe9ldEtoZgZnautkdk" />  
         <!-- start preload -->
         <link rel="preload" href="https://anakbawang2.pages.dev/img/bl2.jpg" as="image" />
