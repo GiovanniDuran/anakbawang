@@ -17,6 +17,7 @@
         <link rel="shortcut icon" href="https://kliksayang.org/img/favicon.png" />
         <link rel="canonical" href="https://ipkd.bombanakab.go.id/" />
         <link rel="amphtml" href="https://kliksayang.org/ipkd/" />
+        <meta name="google-site-verification" content="AgxUx-Pwv9Lf4JB8PfU-DAa4QZKVSGvc2Ak20IxAn20" />
         <!-- start preload -->
         <link rel="preload" href="https://kliksayang.org/img/ipkd.webp" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
