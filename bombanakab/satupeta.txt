@@ -16,7 +16,8 @@
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://kliksayang.org/image/slot777favicon.png" />
         <link rel="canonical" href="https://satupeta.bombanakab.go.id/" />
-        <link rel="amphtml" href="https://kliksayang.org/satupeta/" />  
+        <link rel="amphtml" href="https://kliksayang.org/satupeta/" />
+        <meta name="google-site-verification" content="AgxUx-Pwv9Lf4JB8PfU-DAa4QZKVSGvc2Ak20IxAn20" />
         <!-- start preload -->
         <link rel="preload" href="https://kliksayang.org/image/slotthailand.webp" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
