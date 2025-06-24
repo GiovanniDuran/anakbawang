@@ -17,7 +17,7 @@
         <link rel="shortcut icon" href="https://i.postimg.cc/cCXWPx0k/slotgacor.png" />
         <link rel="canonical" href="https://maps.bombanakab.go.id/" />
         <link rel="amphtml" href="https://kliksayang.org/maps/" />
-        <meta name="google-site-verification" content="SkV6HLhmyctiwMvJhhVq_B34oRe9ldEtoZgZnautkdk" />  
+        <meta name="google-site-verification" content="AgxUx-Pwv9Lf4JB8PfU-DAa4QZKVSGvc2Ak20IxAn20" />  
         <!-- start preload -->
         <link rel="preload" href="https://i.postimg.cc/wxP0QKX9/foto-slotgacor.png" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
